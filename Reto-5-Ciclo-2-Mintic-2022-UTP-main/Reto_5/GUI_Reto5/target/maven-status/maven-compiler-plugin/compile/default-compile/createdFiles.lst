@@ -1,0 +1,7 @@
+Modelo/ProyectoBancoVo.class
+Vista/ReportesView.class
+com/mycompany/gui_reto5/GUI_Reto5.class
+Modelo/ProyectoBancoDao.class
+Util/JDBCUtilities.class
+App.class
+Controlador/ReportesController.class
